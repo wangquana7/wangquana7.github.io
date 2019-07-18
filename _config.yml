@@ -1,7 +1,7 @@
 # Site settings
 title: xiyan
 description: xiyan
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar.jpg
 baseurl:
 url: https://wangquana7.github.io
 rss_url:
